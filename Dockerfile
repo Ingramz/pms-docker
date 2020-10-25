@@ -1,3 +1,4 @@
+FROM plexinc/pms-docker:latest
 FROM ubuntu:16.04
 
 ARG S6_OVERLAY_VERSION=v1.22.1.0
